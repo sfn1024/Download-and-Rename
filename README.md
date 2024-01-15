@@ -1,14 +1,20 @@
 # Download-and-Rename
 
-Note
-*This is a small pyhton script to;
-* Download any number of images (Image_Downloader.py)
-    * Mention the correct name of the image you want
+* I have created basic script as well as GUI for both image downloading and also renaming
+* And also I have combined both functions into one and created an small GUI
+* Try it and have fun
+* I have provided complete source code
   
-* And Rename them using python (Rename_Images.py)
-   * While renaming use the for loop if you want to rename all the images in sequence
-   * Or just type the "name" and the "extension" in between them put a + sign
-   * Don't forget to mention the folder path correctly
+Note
+* This is a small pyhton project to;
+* Download any number of images 
+    * Choose the folder where you need to store the images
+    * Mention the name of the image you want
+  
+* Rename them using python (Rename_Images.py)
+   * While renaming mention the correct folder path where the images/ files are stored
+ 
+
 
 Requierments
 1. IDE
