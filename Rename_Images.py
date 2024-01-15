@@ -1,8 +1,8 @@
 import os
-os.chdir('D:\python\AI\Gesture Detection SSD\VOC2007\JPEGImages\images\hand_gesture_one')
+os.chdir('<folder path>')
 i=1
 for file in os.listdir():
     src=file
-    dst=str(i)+".png"
+    dst="A" + str(i) + ".png"   #dst= "name" +"Extension"
     os.rename(src,dst)
-    i+=1
+    i+=1 #delete if you didn't use any number increment
