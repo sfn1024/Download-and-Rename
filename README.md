@@ -1,7 +1,7 @@
 # Download-and-Rename
 
 * I have created basic script as well as GUI for both image downloading and also renaming
-* And also I have combined both functions into one and created an small GUI
+* And also I have combined both functions into one and created a small GUI
 * Try it and have fun
 * I have provided complete source code
   
@@ -20,4 +20,5 @@ Requierments
 1. IDE
 2. Python
 3. Libraries    
+    * Tkinter
     * pygoogle_image
